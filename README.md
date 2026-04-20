@@ -55,7 +55,6 @@ class Numbers:
         r.n2 = self.n2 + t.n2
         return r
 
-
 # Main program
 obj1 = Numbers(56.4, 98.3)
 obj2 = Numbers(82.4, 19.6)
