@@ -3,6 +3,7 @@ class Numbers:
         self.n1 = n1
         self.n2 = n2
 
+    
     def display(self):
         print(f"First Value : {self.n1}\tSecond value : {self.n2}")
 
